@@ -1,2 +1,2 @@
 echo "not finished yet!"
-cat webs.txt
+cd src && cat webs.txt
