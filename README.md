@@ -11,5 +11,5 @@
             -- Or chat with your friends with <a href="https://github.com/Mr6MJT/LetsChat">LetsChat</a>,Open source 
             chatting software and file transferrer..Also coded by <a href="https://github.com/Mr6MJT">Mr MJT</a>
           
-    -- To try more softwares visit <a href="https://github.com/Mr6MJT">my account</a>.
+    -- To try all my softwares visit <a href="https://github.com/Mr6MJT">my account</a>.
 </pre>
