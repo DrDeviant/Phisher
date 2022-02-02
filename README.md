@@ -2,7 +2,8 @@
       $~: Social Engineering is an art ..!
       
       
-         [+] Phisher v.1 >> penetration testing tool for phishing attacks, Works on Linux,coded By <b> Mahdi Jaber <a href="https://github.com/Mr6MJT">[Mr MJT]</a></b> only.
+         [+] Phisher v.1 >> penetration testing tool for phishing attacks,
+         Works on Linux,coded By <b> Mahdi Jaber <a href="https://github.com/Mr6MJT">[Mr MJT]</a></b> only.
 'Not finished yet'
 
       -- Try <a href="https://github.com/Mr6MJT/CYBOST">CYBOST</a>,Open source linux-based-toolkit for basic cyber 
