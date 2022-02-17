@@ -2,6 +2,8 @@ NOT FINISHED YET
 
 2nd edit: Not finished yetttttttttt 🙂 
 
+soon i will continue developing it,now i dont have time ;_;
+
 <pre> 
       $~: Social Engineering is an art ..!
       
